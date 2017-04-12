@@ -1,0 +1,21 @@
+/.cargo
+/target
+*~
+*.pkl
+*.pyc
+*.swp
+*.swo
+*.csv
+.DS_Store
+
+.config.mk.last
+/glfw
+
+# Editors
+
+# IntelliJ
+.idea
+*.iws
+
+# VSCode
+.vscode

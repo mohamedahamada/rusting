@@ -1,0 +1,8 @@
+[package]
+
+name = "rusting"
+version = "0.0.1"
+authors = [ "Mohamed Ahamada <med.ahamada@mit.co.ma>" ]
+
+[dependencies]
+rand = "0.3.15"
